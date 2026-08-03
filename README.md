@@ -77,7 +77,7 @@ A web-based payment system designed for the Municipality of Majayjay, Laguna. Th
 
 - 📧 Email: Japettomaquin19@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/tomaquin-jafet-946832426
-- 🐙 GitHub: https://github.com/yourusername
+- 🐙 GitHub: https://github.com/Japettomaquin
 
 ---
 
